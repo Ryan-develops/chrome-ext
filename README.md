@@ -1,20 +1,30 @@
 Google Chrome extension (via Scrimba)
 
 What does the extension do?
+
+
 -Allows users to save URLs to local storage (as well as delete) for future reference. 
 
 Things I have learned and experimented with:
 
 -addEventListener(), compared to using onclick()
+
 -innerHTML vs textContent (the differences, when to use, etc)
+
 -Template strings
+
 -localStorage
+
 -first exposure to JSON (parse & stringify)
 
 Technologies used:
+
 -HTML
+
 -CSS
+
 -JavaScript
+
 -JSON
 
 ## Supporting Scrimba
